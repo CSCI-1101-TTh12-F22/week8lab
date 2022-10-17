@@ -32,7 +32,7 @@ etc.
 
 
 ### Exercise 2
-1. Create two empty dictionaries, `oneway` and `otherway`. Read in the file `testfile.txt` line by line, and call split on each line to create a list of two elements for each line. Add the first element as the key to the `oneway` dictionary, with the second element as that key's corresponding value. Then add the second element as the key to the `otherway` dictionary, with the first element as that key's corresponding value.
+1. Create two empty dictionaries, `oneway` and `otherway`. Read in the file `favorite_fruits.txt` line by line, and call `split()` on each line to create a list of two elements for each line. Add the first element as the key to the `oneway` dictionary, with the second element as that key's corresponding value. Then add the second element as the key to the `otherway` dictionary, with the first element as that key's corresponding value.
 2. Print out the number of keys in `oneway` and the number of keys in `otherway`. Why are they not the same?
  
 
