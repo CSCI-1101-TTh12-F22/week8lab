@@ -1,4 +1,4 @@
-# Week 7 Section Activities
+# Week 8 Section Activities
 
 ## Tuples
 
