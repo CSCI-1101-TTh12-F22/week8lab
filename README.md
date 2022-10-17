@@ -22,9 +22,9 @@
 1. Create a dictionary that maps five color words to the number of letters in that color word (e.g., `"blue"` would map to `4`, `"yellow"` would map to `6`).
 2. Loop through the **`keys`** in the dictionary to produce output like this:
 
-`blue has 4 letters`
-`yellow has 6 letters`
-`red has 3 letters`
+`blue has 4 letters
+yellow has 6 letters
+red has 3 letters`
 
 etc.
 
