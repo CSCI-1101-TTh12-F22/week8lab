@@ -23,7 +23,9 @@
 2. Loop through the **`keys`** in the dictionary to produce output like this:
 
 `blue has 4 letters
+
 yellow has 6 letters
+
 red has 3 letters`
 
 etc.
