@@ -15,6 +15,7 @@
 1. Create a tuple containing your name, your favorite integer, the color of your shirt, your graduation year divided by 3, and whether or not (`True` or `False`) you like cilantro.
 2. Loop through the tuple to print out each element on a separate line.
 3. Try to use indexing to add your favorite sports team to the tuple. What happens? Why?
+4. How would you add something to a tuple? (Answer: reassignment or create a tuple by concatenating prior tuple wkth the things you wanted to add as a tuple.)
 
 ## Dictionaries
 
